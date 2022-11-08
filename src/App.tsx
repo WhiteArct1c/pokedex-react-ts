@@ -1,9 +1,9 @@
-import {Pokedex} from './Pokedex/Pokedex'
+import { RoutesPokedex } from './routes';
 
 const App: React.FC = () =>{
   return(
     <>
-      <Pokedex/>
+      <RoutesPokedex/>
     </>
   )
 }
